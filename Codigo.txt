@@ -1,0 +1,8 @@
+
+
+for punto in xtrain:
+  y = f1(punto[0])
+  if y<= punto[1]:
+    ytrain.append(1)
+  else:
+    ytrain.append(0)
