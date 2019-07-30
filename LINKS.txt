@@ -6,3 +6,6 @@ https://colab.research.google.com/drive/1UfiggNNVwMBenQdpPmLom_VC9fNwGiSu
 
 PCA:
 https://colab.research.google.com/drive/1WNpG29jXfrx-h2pARPBvmBLslPnCtgHJ
+
+Redes Nueronales:
+https://colab.research.google.com/drive/1llzhvxDnHkVjoUg9yMjVSNPR9S0pwkez
